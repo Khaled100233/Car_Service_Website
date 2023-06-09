@@ -1,0 +1,11 @@
+.back{
+    background: linear-gradient(to bottom right, #49e8db, #9e39d1) no-repeat;
+}
+
+.toast{
+    z-index: 1;
+}
+
+.hiii:hover{
+    cursor: context-menu;
+}
